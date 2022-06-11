@@ -1,4 +1,4 @@
-# Template-Design-2
+# Digilab Clone
 ##https://sumihasan086.github.io/Template-Design-2
 
 Template Design 2 with HTML &amp; CSS
